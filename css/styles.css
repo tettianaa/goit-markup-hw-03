@@ -113,6 +113,9 @@ padding-top: 24px;
     display: block;
 }
 
+.add-item {
+    padding: 24px 0
+}
 
 
 .address-list {
@@ -209,7 +212,7 @@ color: #404BBF;
 
 .descript-list {
     display: flex;
-    column-gap: 24px;
+    gap: 24px;
 }
 
 .descript-item {
