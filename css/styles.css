@@ -94,6 +94,7 @@ font-weight: 700;
         line-height: 1.5;
         letter-spacing: 0.32px;
         text-decoration: none;
+        padding: 24px 0
 }
 
 .nav-section {
@@ -111,10 +112,6 @@ padding-top: 24px;
 
 .address-section {
     display: block;
-}
-
-.add-item {
-    padding: 24px 0
 }
 
 
